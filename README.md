@@ -14,6 +14,9 @@
   <img src= "https://cdn.svgporn.com/logos/redux.svg"  style="width: 200px; height: 64px;"/>
   <img src= "https://cdn.svgporn.com/logos/nodejs.svg"  style="width: 200px; height: 64px;"/>
   <img src= "https://cdn.svgporn.com/logos/express.svg" style="width: 200px; height: 64px;"/>
+  
+  <h2>LET'S CONNECT</h2>
+  <a href="https://www.linkedin.com/in/sourabh-kumar-80b8b0212/"><img src= "https://cdn.svgporn.com/logos/linkedin-icon.svg" style="width: 200px; height: 64px;" /></a>
 
   
 
