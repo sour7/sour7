@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on new projecta
 - 📫 How to reach me at hellosourabh040@gmail.com
+- please have a look on my <a hreg=""> Resume</a>
 
 <!---
 sour7/sour7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
