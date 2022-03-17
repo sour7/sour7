@@ -5,8 +5,7 @@
 - 📫 How to reach me at hellosourabh040@gmail.com
 - please have a look on my <a href="https://drive.google.com/file/d/1rD7yealy0cyey-qmSCUcZWbBG2nsrU-W/view?usp=sharing"> Resume</a> for more details about me. I'm open for feedback.
 
-
-skills
+<h2>SKILL</h2>
 
 
 
