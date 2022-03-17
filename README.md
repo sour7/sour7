@@ -6,7 +6,7 @@
 - please have a look on my <a href="https://drive.google.com/file/d/1rD7yealy0cyey-qmSCUcZWbBG2nsrU-W/view?usp=sharing"> Resume</a> for more details about me. I'm open for feedback.
 
 <h1>SKILLS</h1>
-<a href="https://cdn.svgporn.com/logos/html-5.svg"/>
+<a href="https://cdn.svgporn.com/logos/html-5.svg"></a>
 <a href="https://cdn.svgporn.com/logos/css-3.svg"/>
 <a href="https://cdn.svgporn.com/logos/javascript.svg"/>
 <a href="https://cdn.svgporn.com/logos/react.svg"/>
