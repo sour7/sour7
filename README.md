@@ -7,11 +7,7 @@
 
 <h1>SKILLS</h1>
 <a href="https://cdn.svgporn.com/logos/html-5.svg"></a>
-<a href="https://cdn.svgporn.com/logos/css-3.svg"/>
-<a href="https://cdn.svgporn.com/logos/javascript.svg"/>
-<a href="https://cdn.svgporn.com/logos/react.svg"/>
-<a href="https://cdn.svgporn.com/logos/mongodb.svg"/>
-<a href="https://cdn.svgporn.com/logos/express.svg"/>
+
 <!---
 sour7/sour7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
