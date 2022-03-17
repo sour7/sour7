@@ -5,8 +5,10 @@
 - 📫 How to reach me at hellosourabh040@gmail.com
 - please have a look on my <a href="https://drive.google.com/file/d/1rD7yealy0cyey-qmSCUcZWbBG2nsrU-W/view?usp=sharing"> Resume</a> for more details about me. I'm open for feedback.
 
-<h1>SKILLS</h1>
-<a href="https://cdn.svgporn.com/logos/html-5.svg"></a>
+
+skills
+
+
 
 <!---
 sour7/sour7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
