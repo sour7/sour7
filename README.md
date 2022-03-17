@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sour7
-- 👀 I’m interested in coding, traveling, cooking
+- 👋 Hi, I’m Sourabh
+- 👀 I’m interested in coding, traveling
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on new projecta
 - 📫 How to reach me at hellosourabh040@gmail.com
