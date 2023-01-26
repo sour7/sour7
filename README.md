@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Sourabh
 - 👀 I’m interested in coding, traveling
-- 🌱 I’m currently learning Full stack web development
-- 💞️ I’m looking to collaborate on new projecta
+- 🌱 I’m currently working as a Full Stack Developer
+- 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me at hellosourabh040@gmail.com
 - please have a look on my <a href="https://drive.google.com/file/d/1rD7yealy0cyey-qmSCUcZWbBG2nsrU-W/view?usp=sharing"> Resume</a> for more details about me. I'm open for feedback.
 
@@ -16,7 +16,11 @@
   <img src= "https://cdn.svgporn.com/logos/redux.svg"  style="width: 200px; height: 64px;"/>
   <img src= "https://cdn.svgporn.com/logos/nodejs.svg"  style="width: 200px; height: 64px;"/>
   <img src= "https://cdn.svgporn.com/logos/express.svg" style="width: 200px; height: 64px;"/>
-  
+  <img src= "https://cdn.svgporn.com/logos/nextjs.svg" style="width: 200px; height: 64px;"/>
+
+
+
+
   <h2>LET'S CONNECT</h2>
   <a href="https://www.linkedin.com/in/sourabh-kumar-80b8b0212/"><img src= "https://cdn.svgporn.com/logos/linkedin-icon.svg" style="width: 200px; height: 64px;" /></a>
 
