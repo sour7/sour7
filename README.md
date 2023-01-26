@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sour7&label=Profile%20views&color=0e75b6&style=flat" alt="sour7" /> </p>
+
 - 👋 Hi, I’m Sourabh
 - 👀 I’m interested in coding, traveling
 - 🌱 I’m currently learning Full stack web development
