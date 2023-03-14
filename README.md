@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hellosourabh040@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rD7yealy0cyey-qmSCUcZWbBG2nsrU-W/view](https://drive.google.com/file/d/1rD7yealy0cyey-qmSCUcZWbBG2nsrU-W/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nRIV21g_tXMkbl0EYsm-PMl_owvyZLcc/view?usp=share_link](https://drive.google.com/file/d/1nRIV21g_tXMkbl0EYsm-PMl_owvyZLcc/view?usp=share_link)
 
 - ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly.**
 
