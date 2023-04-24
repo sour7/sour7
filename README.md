@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sourabhport.netlify.app/](https://sourabhport.netlify.app/)
 
-- 💬 Ask me about **javaScaript , React, Nextjs**
+- 💬 Ask me about **javaScaript , React, Nextjs, Nodejs**
 
 - 📫 How to reach me **hellosourabh040@gmail.com**
 
