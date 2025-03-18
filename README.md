@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **new project**
 
-- 👨‍💻 All of my projects are available at [https://sourabhport.netlify.app/](https://sourabhport.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sour7.tech](https://sour7.tech/)
 
 - 💬 Ask me about **javaScaript , React, Nextjs, Nodejs**
 
